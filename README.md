@@ -1,4 +1,4 @@
-# Stream with GTA VI Coin (STVI)
+# Stream with GTA V Coin (STV)
 
 Welcome to the official **Stream with GTA V Coin (STV)** project 🚀  
 This is more than a token; it's your ticket to the ultimate live stream experience.
@@ -26,4 +26,5 @@ After deployment, your site will be live here:
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/stvi-coin.git
+
 
