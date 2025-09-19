@@ -1,0 +1,10 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node / Build stuff (not needed for plain HTML but safe to include)
+node_modules/
+dist/
